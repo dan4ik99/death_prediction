@@ -1,2 +1,1 @@
-# death_prediction
-Prediction of death from heart failure
+Цель: Предсказать летальный исход пациента от сердечной недостаточности
